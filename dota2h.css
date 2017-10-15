@@ -2,6 +2,10 @@ body{
   background-color: grey;
 }
 
+img:active{
+  transform: translateY(10px);
+}
+
 .huge{
   font-size: 50;
 }
