@@ -1,0 +1,25 @@
+body{
+  background-color: grey;
+}
+
+.huge{
+  font-size: 50;
+}
+
+.intro{
+  font-size: 75;
+  font-weight: bold;
+  text-align: center;
+}
+
+.begin{
+  position: absolute;
+  top: 150px;
+  left: 460px;
+}
+
+.attributetitle{
+  font-size: 45;
+  font-weight: bold;
+  font-family: arial;
+}
